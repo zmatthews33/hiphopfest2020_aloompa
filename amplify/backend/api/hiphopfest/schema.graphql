@@ -1,0 +1,21 @@
+type App @model {
+	id: String!
+	name: String!
+	_id: ID!
+}
+type Stage @model {
+	id: String!
+	name: String!
+	_id: ID!
+}
+type Event @model {
+	id: String!
+	appId: String!
+	stageId: String!
+	name: String!
+	description: String!
+	image: String!
+	startsAt: AWSTimestamp!
+	endsAt: AWSTimestamp!
+	_id: ID!
+}

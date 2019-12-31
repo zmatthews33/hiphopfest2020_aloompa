@@ -1,0 +1,42 @@
+{
+	"providers": {
+		"awscloudformation": {
+			"AuthRoleName": "amplify-my-app-hiphopfest-194902-authRole",
+			"UnauthRoleArn": "arn:aws:iam::383490388112:role/amplify-my-app-hiphopfest-194902-unauthRole",
+			"AuthRoleArn": "arn:aws:iam::383490388112:role/amplify-my-app-hiphopfest-194902-authRole",
+			"Region": "us-east-2",
+			"DeploymentBucketName": "amplify-my-app-hiphopfest-194902-deployment",
+			"UnauthRoleName": "amplify-my-app-hiphopfest-194902-unauthRole",
+			"StackName": "amplify-my-app-hiphopfest-194902",
+			"StackId": "arn:aws:cloudformation:us-east-2:383490388112:stack/amplify-my-app-hiphopfest-194902/90da6130-2aa6-11ea-a24f-02860fd3b864",
+			"AmplifyAppId": "d35qb3pz1mt6ax"
+		}
+	},
+	"api": {
+		"hiphopfest": {
+			"service": "AppSync",
+			"providerPlugin": "awscloudformation",
+			"output": {
+				"authConfig": {
+					"additionalAuthenticationProviders": [],
+					"defaultAuthentication": {
+						"authenticationType": "API_KEY",
+						"apiKeyConfig": {
+							"description": "",
+							"apiKeyExpirationDays": "365"
+						}
+					}
+				},
+				"GraphQLAPIIdOutput": "ngfko2qqxfhrtba5fw7sy7pgk4",
+				"GraphQLAPIEndpointOutput": "https://ecs7vbaunva3jkf5quddibqbsi.appsync-api.us-east-2.amazonaws.com/graphql",
+				"GraphQLAPIKeyOutput": "da2-h6wdb6patrd5xbasmq3gjymi7i"
+			},
+			"providerMetadata": {
+				"s3TemplateURL": "https://s3.amazonaws.com/amplify-my-app-hiphopfest-194902-deployment/amplify-cfn-templates/api/cloudformation-template.json",
+				"logicalId": "apihiphopfest"
+			},
+			"lastPushTimeStamp": "2019-12-30T02:14:28.951Z",
+			"lastPushDirHash": "OeAifDJrEPK1NYepm3cxab8dnco="
+		}
+	}
+}

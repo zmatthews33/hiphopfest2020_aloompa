@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "hiphopfest",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "S3DeploymentBucket": "amplify-my-app-hiphopfest-194902-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/8be6cf853ae56c5fd6931f1106beb3b3c21d5399"
+}

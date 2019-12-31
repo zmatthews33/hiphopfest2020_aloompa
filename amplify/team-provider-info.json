@@ -1,0 +1,15 @@
+{
+    "hiphopfest": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-my-app-hiphopfest-194902-authRole",
+            "UnauthRoleArn": "arn:aws:iam::383490388112:role/amplify-my-app-hiphopfest-194902-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::383490388112:role/amplify-my-app-hiphopfest-194902-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-my-app-hiphopfest-194902-deployment",
+            "UnauthRoleName": "amplify-my-app-hiphopfest-194902-unauthRole",
+            "StackName": "amplify-my-app-hiphopfest-194902",
+            "StackId": "arn:aws:cloudformation:us-east-2:383490388112:stack/amplify-my-app-hiphopfest-194902/90da6130-2aa6-11ea-a24f-02860fd3b864",
+            "AmplifyAppId": "d35qb3pz1mt6ax"
+        }
+    }
+}
