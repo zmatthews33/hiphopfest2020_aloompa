@@ -43,7 +43,7 @@ state = {
                 <h1>EVENTS</h1>
                 <div>
                 <FormGroup>
-          <Input placeholder="Search Events (by Name)" type="text"
+          <Input placeholder="Search Events" type="text"
            onChange={this.searchHandler.bind(this)}
            value={name}/>
           </FormGroup>
