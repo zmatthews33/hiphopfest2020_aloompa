@@ -39,7 +39,7 @@ class Search extends Component {
       <div className="title text-white">
                 <h1>STAGES</h1>
                 <FormGroup>
-          <Input placeholder="Search Stages by Name" type="text"
+          <Input placeholder="Search Stages" type="text"
            onChange={this.searchHandler.bind(this)}
            value={name}/>
           </FormGroup>
