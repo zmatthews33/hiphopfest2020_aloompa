@@ -21,7 +21,7 @@ function DemoFooter() {
               </li>
               <li>
                 <a
-                  href="http://blog.creative-tim.com/?ref=pkr-footer"
+                  href="https://github.com/zmatthews33"
                   target="_blank"
                 >
                   Github
