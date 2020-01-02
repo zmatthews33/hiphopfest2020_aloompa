@@ -13,7 +13,7 @@ function DemoFooter() {
             <ul>
               <li>
                 <a
-                  href="https://www.creative-tim.com?ref=pkr-footer"
+                  href="https://zachmatthews.me"
                   target="_blank"
                 >
                   Zach Matthews
