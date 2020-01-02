@@ -88,17 +88,6 @@ function IndexNavbar() {
                 <p className="d-lg-none">GitHub</p>
               </NavLink>
             </NavItem>
-            <NavItem>
-              <Button
-                className="btn-round"
-                color="default"
-                href="https:https://aloompa.com/"
-                target="_blank"
-                disabled
-              >
-                Learn More
-              </Button>
-            </NavItem>
           </Nav>
         </Collapse>
       </Container>
