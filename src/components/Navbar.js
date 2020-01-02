@@ -80,7 +80,7 @@ function IndexNavbar() {
             <NavItem>
               <NavLink
                 data-placement="bottom"
-                href="https://https://github.com/zmatthews33/aloompa-hiphopfest2020"
+                href="https://github.com/zmatthews33/hiphopfest2020_aloompa"
                 target="_blank"
                 title="Star on GitHub"
               >
